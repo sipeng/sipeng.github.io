@@ -22,6 +22,8 @@ markdown: kramdown
 kramdown:
   input: GFM
 
+theme: jekyll-simple
+
 # Third-party services
 # just leave someone empty to disable it
 # google_analytics: 
