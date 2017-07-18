@@ -3,7 +3,7 @@ layout: default
 title: Markdown Snippet
 ---
 
-## Welcome to markdown snippet
+# Welcome to markdown snippet
 
 [back](./)
 

@@ -1,6 +1,5 @@
-title: Si Peng's homepage
-description: This is my homepage created with Jekyll
-show_downloads: false
+title: Si Peng's Homepage
+description:
 google_analytics:
 theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
